@@ -1,0 +1,3 @@
+[submodule "sites/blog"]
+	path = sites/blog
+	url = https://github.com/Joshfairhead/blog.git
